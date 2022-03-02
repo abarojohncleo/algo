@@ -16,7 +16,7 @@ def binarySearch(list,target):
 
 def verify(index):
     if index is not None:
-        print('Targe found in index: ', index)
+        print('Target found in index: ', index)
     else:
         print('Target not found')
 
